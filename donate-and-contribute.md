@@ -8,4 +8,4 @@ WūJīMāChā 目前的所有內容和項目全部以免費和開源的方式分
 
 您的捐助將使得貢獻者有更多的時間和精力去持續創造有意義的對話，寫作+和項目。它們也將用於 WūJīMāChā 域名和郵件系統續費，錄音等硬件設備維護和升級等。您的所有捐助和我們對其的使用都是公開透明的。您可以通過我們的 [Open Collective](https://opencollective.com/wujimacha) 頁面看到資金是如何流通的。
 
-請前往我們的 [Open Collective](https://opencollective.com/wujimacha) 主頁，通過 Paypal（貝寶）、 Stripe （接受世界各地的所有主流借記卡和信用卡）支付寶，或加密貨幣（即將開通）進行捐助。
+請前往我們的 [Open Collective](https://opencollective.com/wujimacha) 主頁，通過 Paypal（貝寶）、 Stripe （接受世界各地的所有主流借記卡和信用卡）、支付寶，或加密貨幣（即將開通）進行捐助。
