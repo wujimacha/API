@@ -1,0 +1,9 @@
+[
+    {
+        "issueNo": 1,
+        "theme": "",
+        "cover": "https://example.com/cover.png",
+        "coverIcon": "https://example.com/coverIcon.png",
+        "essayCount": 5
+    }
+]
