@@ -1,7 +1,10 @@
 [
 	{
 		"title": "屏幕與痕跡",
-		"author": "Jinglong Yang",
+		"author": {
+			"zh": "楊景隆",
+			"en": "Yang, Jinglong"
+		},
 		"path": "screen-and-imprint",
 		"url": "https://www.wujimacha.com/pub/screen-and-imprint-tc",
 		"pdfURL": "https://assets.pubpub.org/91u9rhrp/01645195076990.pdf",
@@ -9,7 +12,10 @@
 	},
 	{
 		"title": "思考，在數字媒介中",
-		"author": "Zizheng Wang",
+		"author": {
+			"zh": "王子正",
+			"en": "Wang, Zizheng"
+		}, 
 		"path": "thinking-in-the-digital-medium",
 		"url": "https://www.wujimacha.com/pub/thinking-in-the-digital-medium-tc",
 		"pdfURL": "https://assets.pubpub.org/b5xu0cxc/51645195350671.pdf",
@@ -17,7 +23,10 @@
 	},
 	{
 		"title": "論身體的整體感知",
-		"author": "Jinglong Yang",
+		"author": {
+			"zh": "楊景隆",
+			"en": "Yang, Jinglong"
+		},
 		"path": "on-body-perception-as-a-whole",
 		"url": "https://www.wujimacha.com/pub/on-body-perception-as-a-whole-tc",
 		"pdfURL": "https://assets.pubpub.org/vc35sgku/01645195529617.pdf",
@@ -25,7 +34,10 @@
 	},
 	{
 		"title": "死亡，身體和舞臺",
-		"author": "Danchen Zhang",
+		"author": {
+			"zh": "章丹晨",
+			"en": "Danchen Zhang"
+		},
 		"path": "death-body-and-stage",
 		"url": "https://www.wujimacha.com/pub/death-body-and-stage-tc",
 		"pdfURL": "https://assets.pubpub.org/pn2tgycf/21645195716701.pdf",
@@ -33,7 +45,10 @@
 	},
 	{
 		"title": "浴恩館的小憩",
-		"author": "Jinglong Yang",
+		"author": {
+			"zh": "楊景隆",
+			"en": "Yang, Jinglong"
+		},
 		"path": "a-short-sojorn-in-yokuonkan",
 		"url": "https://www.wujimacha.com/pub/a-short-sojorn-in-yokuonkan-tc",
 		"pdfURL": "https://assets.pubpub.org/fe15uojm/41645195704789.pdf",

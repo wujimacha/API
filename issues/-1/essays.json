@@ -1,7 +1,10 @@
 [
 	{
 		"title": "",
-		"author": "",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
 		"path": "",
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",
@@ -9,7 +12,10 @@
 	},
 	{
 		"title": "",
-		"author": "",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
 		"path": "",
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",
@@ -17,7 +23,10 @@
 	},
 	{
 		"title": "",
-		"author": "",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
 		"path": "",
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",

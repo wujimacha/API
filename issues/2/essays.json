@@ -1,7 +1,10 @@
 [
 	{
 		"title": "被遺忘的神明",
-		"author": "陸詩音｜Lu, Shiyin",
+		"author": {
+			"zh": "陸詩音",
+			"en": "Lu, Shiyin"
+		},
 		"path": "the-forgotten-deities-tc",
 		"url": "https://www.wujimacha.com/pub/the-forgotten-deities-tc",
 		"pdfURL": "https://assets.pubpub.org/sl942dk0/41647882278564.pdf",
@@ -9,7 +12,10 @@
 	},
 	{
 		"title": "",
-		"author": "",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
 		"path": "",
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",
@@ -17,7 +23,10 @@
 	},
 	{
 		"title": "",
-		"author": "",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
 		"path": "",
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",
