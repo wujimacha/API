@@ -12,7 +12,7 @@
 		"themeColour": "#342c24"
 	},
 	{
-		"title": "",
+		"title": "穿過玻璃的景象",
 		"author": {
 			"zh": "",
 			"en": ""
@@ -23,7 +23,7 @@
 		"pngURL": ""
 	},
 	{
-		"title": "",
+		"title": "“aRb”",
 		"author": {
 			"zh": "",
 			"en": ""
@@ -32,5 +32,16 @@
 		"url": "https://www.wujimacha.com/pub/",
 		"pdfURL": "",
 		"pngURL": ""
-	}
+	},
+	{
+		"title": "綠櫻館習作物語",
+		"author": {
+			"zh": "",
+			"en": ""
+		},
+		"path": "",
+		"url": "https://www.wujimacha.com/pub/",
+		"pdfURL": "",
+		"pngURL": ""
+    }
 ]
