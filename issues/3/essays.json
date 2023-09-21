@@ -6,7 +6,7 @@
 		},
 		"path": "preview",
 		"url": "https://www.wujimacha.com",
-		"pdfURL": "http://localhost/preview.pdf",
+		"pdfURL": "/preview.pdf",
 		"language": "en"
 	}
 ]
