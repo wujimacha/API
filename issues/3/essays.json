@@ -6,8 +6,8 @@
 		},
 		"path": "preview",
 		"url": "https://www.wujimacha.com",
-		"pdfURL": "/preview.pdf",
-        "themeColour": "#f6f4e4",
+		"pdfURL": "/pdf/3-1-split.pdf",
+        "themeColour": "#f4f1e1",
 		"language": "en"
 	}
 ]
